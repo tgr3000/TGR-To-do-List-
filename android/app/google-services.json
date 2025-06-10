@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772553150308",
+    "project_id": "kalender-86f48",
+    "storage_bucket": "kalender-86f48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772553150308:android:fdc04a2d637b53d607b471",
+        "android_client_info": {
+          "package_name": "com.apptodolist_2567"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_AKzYIrRk-MtZRkZHM3iWZJ9JDZQMNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
